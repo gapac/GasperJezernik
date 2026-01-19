@@ -1,2 +1,2 @@
-# gasperjezernik.github.io
+# GasperJezernik
 Personal webpage
